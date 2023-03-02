@@ -194,8 +194,8 @@ Placements
       </div>
       <div>
         <div className="mb-20">
-        <h2 className="text-[#3B81F6] text-sm font-bold mb-4"> Placement Tests</h2>
-        <h2 className="text-gray-400 text-sm font-bold">No Placement Tests Scheduled</h2>
+        <h2 className="text-[#3B81F6] text-sm font-bold mb-4"> Pre-assesment Tests</h2>
+        <h2 className="text-gray-400 text-sm font-bold">No Pre-assesment  Scheduled</h2>
         </div>
       <div className=" shadow-xl rounded  p-4">
       <h2 className="text-[#f77171] text-sm font-bold"> Pre-Assesment Report</h2>
